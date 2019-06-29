@@ -1,7 +1,7 @@
 extern void b001_func(void);
-
+extern void b002_func(void);
 int main(int argc,char **argv)
 {
 	b001_func();
-	return 0;
+	b002_func();
 }
